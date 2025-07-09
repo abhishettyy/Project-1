@@ -11,13 +11,13 @@ A clean and modern **Spotify-inspired web interface** built from scratch using *
 
 ##  Features:
 
-- 🎧 **Navbar** with Spotify-style branding
-- 🎶 **Recently Played** music section
-- 📚 **Spotify Originals & Podcasts** area
-- 📂 **User-created Playlists**
-- 🎨 Smooth **hover effects** on all cards
-- 💡 Fully styled **grid/flexbox layouts**
-- 💻 Built using **relative CSS units** for better scaling
+-  **Navbar** with Spotify-style branding
+-  **Recently Played** music section
+-  **Spotify Originals & Podcasts** area
+-  **User-created Playlists**
+-  Smooth **hover effects** on all cards
+-  Fully styled **grid/flexbox layouts**
+-  Built using **relative CSS units** for better scaling
 
 
 
