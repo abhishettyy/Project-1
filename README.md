@@ -45,7 +45,7 @@ It uses relative units and Flexbox to adapt to different screen sizes. Full mobi
 -  Strengthen understanding of **Flexbox**, relative units, and layout design
 - Explore how to create scalable and modular CSS
 - Practice deploying live projects via **GitHub Pages**
-- - The importance of **planning layout flow** before styling
+-  The importance of **planning layout flow** before styling
 - How **relative units** improve adaptability across devices
 - How to structure reusable sections like cards and playlists
 
